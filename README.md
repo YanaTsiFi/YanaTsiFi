@@ -1,16 +1,23 @@
-## Привет! 👋 Я Yana — QA-инженер
+## Привет! 👋 Я Yana
 🎯 Занимаюсь ручным и автоматизированным тестированием  
 🧪 Пишу автотесты на Java с использованием Selenide, Rest Assured и JUnit  
 🚀 Настраиваю Allure отчёты, Jenkins, Selenoid, Telegram-уведомления  
 📚 Постоянно развиваюсь и изучаю новые инструменты для повышения качества продуктов  
 
-### 🎓 Образование  
-- 🏛 **БГИТУ** — ПГС, бакалавр (2023)  
-- 💻 **Томский государственный университет** — Тестировщик ПО (2021)  
-- 🚀 **QA.GURU** — Автоматизация тестирования (2025)
-
-### 🛠️ Навыки
-- **Языки**: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-- **Инструменты**: ![Selenide](https://img.shields.io/badge/Selenide-1e6bbf?style=flat-square&logo=selenide&logoColor=white) ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-00a88d?style=flat-square&logo=rest-assured&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-1f72b6?style=flat-square&logo=allure&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-FF8800?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- **Системы**: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Xray](https://img.shields.io/badge/Xray-0033cc?style=flat-square&logo=xray&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 🛠 Технологии и инструменты
+<p align="left">
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+  <a href="https://selenide.org/"><img src="https://selenide.org/images/selenide-logo.svg" alt="Selenide" width="50" height="50"/></a>
+  <a href="https://rest-assured.io/"><img src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured" width="50" height="50"/></a>
+  <a href="https://junit.org/junit5/"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit 5" width="50" height="50"/></a>
+  <a href="https://gradle.org/"><img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" alt="Gradle" width="50" height="50"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="50" height="50"/></a>
+  <a href="https://github.com/allure-framework/"><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="Allure" width="50" height="50"/></a>
+  <a href="https://aerokube.com/selenoid/"><img src="https://aerokube.com/selenoid/images/selenoid-logo.svg" alt="Selenoid" width="50" height="50"/></a>
+  <a href="https://www.browserstack.com/"><img src="https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" alt="BrowserStack" width="50" height="50"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="50" height="50"/></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="50" height="50"/></a>
+  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
+</p>
  

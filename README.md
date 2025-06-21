@@ -6,17 +6,20 @@
 
 ### 🛠 Технологии и инструменты
 <p align="center">
-  <img width="6%" alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png">
-  <img width="6%" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img width="6%" alt="Selenide" src="https://selenide.org/images/selenide-logo.svg">
-  <img width="6%" alt="Selenoid" src="https://aerokube.com/selenoid/images/selenoid-logo.svg">
-  <img width="6%" alt="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
-  <img width="5%" alt="Allure TestOps" src="https://qameta.io/wp-content/uploads/2020/10/Allure_TestOps_Logo_Mark.svg">
-  <img width="6%" alt="Gradle" src="https://gradle.org/images/gradle-knowledge-graph-logo.png">
-  <img width="6%" alt="JUnit5" src="https://junit.org/junit5/assets/img/junit5-logo.png">
-  <img width="6%" alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-  <img width="6%" alt="Jenkins" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg">
-  <img width="6%" alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
-  <img width="5%" alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg">
+  <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="media/logo/Idea.svg" width="50" height="50"></a>
+  <a href="https://github.com/"><img alt="GitHub" src="media/logo/GitHub.svg" width="50" height="50"></a>
+  <a href="https://www.java.com/"><img alt="Java" src="media/logo/Java.svg" width="50" height="50"></a>
+  <a href="https://gradle.org/"><img alt="Gradle" src="media/logo/Gradle.svg" width="50" height="50"></a>
+  <a href="https://junit.org/junit5/"><img alt="JUnit 5" src="media/logo/Junit5.svg" width="50" height="50"></a>
+  <a href="https://selenide.org/"><img alt="Selenide" src="media/logo/Selenide.svg" width="50" height="50"></a>
+  <a href="https://rest-assured.io/"><img alt="Rest Assured" src="media/logo/RestAssured.svg" width="50" height="50"></a>
+  <a href="https://aerokube.com/selenoid/"><img alt="Selenoid" src="media/logo/Selenoid.svg" width="50" height="50"></a>
+  <a href="https://www.browserstack.com/"><img alt="BrowserStack" src="media/logo/Browserstack.svg" width="50" height="50"></a>
+  <a href="https://developer.android.com/studio"><img alt="Android Studio" src="media/logo/android-studio-50.png" width="50" height="50" /></a>
+  <a href="https://www.jenkins.io/"><img alt="Jenkins" src="media/logo/Jenkins.svg" width="50" height="50"></a>
+  <a href="https://github.com/allure-framework/"><img alt="Allure Report" src="media/logo/Allure.svg" width="50" height="50"></a>
+  <a href="https://qameta.io/"><img alt="Allure TestOps" src="media/logo/Allure_TO.svg" width="50" height="50"></a>
+  <a href="https://www.atlassian.com/software/jira"><img alt="Jira" src="media/logo/Jira.svg" width="50" height="50"></a>
+  <a href="https://telegram.org/"><img alt="Telegram" src="media/logo/Telegram.svg" width="50" height="50"></a>
 </p>
  

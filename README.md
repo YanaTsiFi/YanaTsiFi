@@ -5,5 +5,20 @@
 📚 Постоянно развиваюсь и изучаю новые инструменты для повышения качества продуктов  
 
 ### 🛠 Технологии и инструменты
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+<p align="center">
+  <img src="media/logo/Idea.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="media/logo/GitHub.svg" alt="GitHub" width="40" height="40"/>
+  <img src="media/logo/Java.svg" alt="Java" width="40" height="40"/>
+  <img src="media/logo/Gradle.svg" alt="Gradle" width="40" height="40"/>
+  <img src="media/logo/Junit5.svg" alt="JUnit 5" width="40" height="40"/>
+  <img src="media/logo/Selenide.svg" alt="Selenide" width="40" height="40"/>
+  <img src="media/logo/Allure.svg" alt="Allure Report" width="40" height="40"/>
+  <img src="media/logo/Allure_TO.svg" alt="Allure TestOps" width="40" height="40"/>
+  <img src="media/logo/Jenkins.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="media/logo/Browserstack.svg" alt="BrowserStack" width="40" height="40"/>
+  <img src="media/logo/Telegram.svg" alt="Telegram" width="40" height="40"/>
+  <img src="media/logo/Android-studio.svg" alt="Android Studio" width="40" height="40"/>
+  <img src="media/logo/Appium.svg" alt="Appium" width="40" height="40"/>
+  <img src="media/logo/Jira.svg" alt="Jira" width="40" height="40"/>
+</p>
  

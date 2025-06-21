@@ -22,11 +22,24 @@
   <img src="media/logo/Jira.svg" alt="Jira" width="40" height="40"/>
 </p>
 
- ### 💼 Дипломный проект
+## 💼 Дипломный проект
 
-🎓 `todoist-project` — дипломный проект курса **QA.GURU**  
-🔗 [Репозиторий на GitHub](https://github.com/YanaTsiFi/todoist-project)  
-🔍 Реализовано:
-- UI и API автотесты
-- Интеграция с Jenkins, Allure, Telegram
-- Использование Selenoid для запуска в контейнерах
+🎓 **Todoist Project — дипломный проект QA.GURU**
+
+<p align="center">
+  <a href="https://github.com/YanaTsiFi/todoist-project">
+    <img src="https://img.shields.io/badge/Todoist_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
+  </a>
+</p>
+
+### 🔍 Реализовано:
+- ✅ UI и API автотесты на Java (Selenide + Rest Assured)
+- 🔄 Интеграция с Jenkins, Allure, Selenoid и Telegram
+- ☁️ Запуск автотестов в контейнерах с помощью Selenoid
+
+---
+
+### 📫 Связь
+
+- Telegram: [@YanaTsiFi](https://t.me/YanaTsiFi)
+- Email: [yanagrischechko@gmail.com]

@@ -28,9 +28,18 @@
 
 <p align="center">
   <a href="https://github.com/YanaTsiFi/todoist-project">
-    <img src="https://img.shields.io/badge/Todoist_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
+    <img src="https://raw.githubusercontent.com/YanaTsiFi/YanaTsiFi/main/media/GitHub.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/YanaTsiFi/YanaTsiFi/main/media/Java.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/YanaTsiFi/YanaTsiFi/main/media/Selenide.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/YanaTsiFi/YanaTsiFi/main/media/RestAssured.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/YanaTsiFi/YanaTsiFi/main/media/Jenkins.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/YanaTsiFi/YanaTsiFi/main/media/Allure.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/YanaTsiFi/YanaTsiFi/main/media/Selenoid.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/YanaTsiFi/YanaTsiFi/main/media/Telegram.svg" width="40" />
   </a>
 </p>
+
+**📌 [Todoist Project](https://github.com/YanaTsiFi/todoist-project)** — дипломный проект курса **QA.GURU**
 
 ### 🔍 Реализовано:
 - ✅ UI и API автотесты на Java (Selenide + Rest Assured)
